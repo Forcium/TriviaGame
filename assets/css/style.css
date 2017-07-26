@@ -1,0 +1,41 @@
+body {
+  background-color: lightgray;
+  margin: auto 2%;
+}
+
+h1 {
+  color: #99ffcc;
+  font-size: 50px;
+}
+
+h4 {
+  color: #99ffcc;
+  font-size: 30px;
+}
+
+button {
+  margin: 25%;
+}
+
+#triviaStart{
+  margin: 10%;
+}
+
+.hidden {
+  display: none;
+}
+
+.questionSetting {
+  margin-bottom: 20px;
+  border: solid 2px blue;
+}
+
+#innerFront {
+  border: solid 1px blue;
+  text-align: center;
+  padding: 2%;
+}
+
+#timerCount {
+  font-size: 40px;
+}
